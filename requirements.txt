@@ -7,3 +7,4 @@ numpy
 scikit-learn
 tensorflow
 flake8
+bandit
