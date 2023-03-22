@@ -4,5 +4,5 @@ yfinance
 datetime
 flask
 numpy
-sklearn
+scikit-learn
 tensorflow
